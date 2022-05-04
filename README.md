@@ -1,3 +1,3 @@
 # nextjs-course
 
-https://nextjs-course-snowy-nine.vercel.app
+- [Demo](https://nextjs-course-snowy-nine.vercel.app)
